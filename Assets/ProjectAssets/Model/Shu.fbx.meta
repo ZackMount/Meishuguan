@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 77446c8587b5d454fa689c71f84d0268
+timeCreated: 1495699554
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder004
+    100002: Group001
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint12
+    100012: joint13
+    100014: joint14
+    100016: joint15
+    100018: joint16
+    100020: joint17
+    100022: joint18
+    100024: joint19
+    100026: joint2
+    100028: joint20
+    100030: joint21
+    100032: joint22
+    100034: joint23
+    100036: joint24
+    100038: joint25
+    100040: joint26
+    100042: joint27
+    100044: joint28
+    100046: joint29
+    100048: joint3
+    100050: joint4
+    100052: joint5
+    100054: joint6
+    100056: joint7
+    100058: joint8
+    100060: joint9
+    100062: Object001
+    100064: Object002
+    100066: Object003
+    100068: Object004
+    100070: Object005
+    100072: Object006
+    100074: Object007
+    100076: Object008
+    100078: Object009
+    100080: Plane001
+    100082: Plane002
+    100084: Plane003
+    100086: Plane004
+    100088: Plane006
+    100090: Plane007
+    100092: Plane008
+    100094: //RootNode
+    400000: Cylinder004
+    400002: Group001
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint12
+    400012: joint13
+    400014: joint14
+    400016: joint15
+    400018: joint16
+    400020: joint17
+    400022: joint18
+    400024: joint19
+    400026: joint2
+    400028: joint20
+    400030: joint21
+    400032: joint22
+    400034: joint23
+    400036: joint24
+    400038: joint25
+    400040: joint26
+    400042: joint27
+    400044: joint28
+    400046: joint29
+    400048: joint3
+    400050: joint4
+    400052: joint5
+    400054: joint6
+    400056: joint7
+    400058: joint8
+    400060: joint9
+    400062: Object001
+    400064: Object002
+    400066: Object003
+    400068: Object004
+    400070: Object005
+    400072: Object006
+    400074: Object007
+    400076: Object008
+    400078: Object009
+    400080: Plane001
+    400082: Plane002
+    400084: Plane003
+    400086: Plane004
+    400088: Plane006
+    400090: Plane007
+    400092: Plane008
+    400094: //RootNode
+    2300000: Object009
+    2300002: Plane001
+    2300004: Plane002
+    2300006: Plane003
+    2300008: Plane004
+    2300010: Plane006
+    2300012: Plane007
+    2300014: Plane008
+    3300000: Object009
+    3300002: Plane001
+    3300004: Plane002
+    3300006: Plane003
+    3300008: Plane004
+    3300010: Plane006
+    3300012: Plane007
+    3300014: Plane008
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Plane003
+    4300006: Plane004
+    4300008: Plane006
+    4300010: Plane007
+    4300012: Plane008
+    4300014: Cylinder004
+    4300016: Object008
+    4300018: Object001
+    4300020: Object002
+    4300022: Object003
+    4300024: Object004
+    4300026: Object005
+    4300028: Object006
+    4300030: Object007
+    4300032: Object009
+    7400000: Shu
+    9500000: //RootNode
+    13700000: Cylinder004
+    13700002: Object001
+    13700004: Object002
+    13700006: Object003
+    13700008: Object004
+    13700010: Object005
+    13700012: Object006
+    13700014: Object007
+    13700016: Object008
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shu
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Cylinder004
+        weight: 1
+      - path: Group001/Object001
+        weight: 1
+      - path: Group001/Object002
+        weight: 1
+      - path: Group001/Object003
+        weight: 1
+      - path: Group001/Object004
+        weight: 1
+      - path: Group001/Object005
+        weight: 1
+      - path: Group001/Object006
+        weight: 1
+      - path: Group001/Object007
+        weight: 1
+      - path: Group001/Object008
+        weight: 1
+      - path: Group001/Object009
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/joint3
+        weight: 1
+      - path: joint2/joint3/joint1
+        weight: 1
+      - path: joint4
+        weight: 1
+      - path: joint4/joint5
+        weight: 1
+      - path: joint4/joint5/joint6
+        weight: 1
+      - path: joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: joint9
+        weight: 1
+      - path: joint9/joint10
+        weight: 1
+      - path: joint9/joint10/joint11
+        weight: 1
+      - path: joint12
+        weight: 1
+      - path: joint12/joint13
+        weight: 1
+      - path: joint12/joint13/joint14
+        weight: 1
+      - path: joint15
+        weight: 1
+      - path: joint15/joint16
+        weight: 1
+      - path: joint15/joint16/joint17
+        weight: 1
+      - path: joint18
+        weight: 1
+      - path: joint18/joint19
+        weight: 1
+      - path: joint18/joint19/joint20
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint22
+        weight: 1
+      - path: joint21/joint22/joint23
+        weight: 1
+      - path: joint24
+        weight: 1
+      - path: joint24/joint25
+        weight: 1
+      - path: joint24/joint25/joint26
+        weight: 1
+      - path: joint27
+        weight: 1
+      - path: joint27/joint28
+        weight: 1
+      - path: joint27/joint28/joint29
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane007
+        weight: 1
+      - path: Plane008
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
